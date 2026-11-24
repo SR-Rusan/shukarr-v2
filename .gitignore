@@ -1,0 +1,16 @@
+
+# kept local only
+node_modules/
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+.DS_Store
+work/
+downloads/
+reference_videos/
+analysis/
+build/
+dist/
+*.app
